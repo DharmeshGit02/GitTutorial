@@ -1,2 +1,3 @@
 Dhamu is a great boy 
 Dhamu is smart 
+bug in file 
